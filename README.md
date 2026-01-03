@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
 </div>
 
-Visitors here:
+### Total Visitors:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Redfox-Secuirty&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpanchal05" /> </p>
 
 ---  
 ## 1. Don't worry. It's not hacked! Just typo leads you here. [Broken Link]
 
-## 2. Click here : [https://github.com/Redfox-Security](https://github.com/Redfox-Secuirty)
+## 2. Click here : [https://github.com/Redfox-Security](https://github.com/dipakpanchal05)
 
 ## 3. You can visit bio... 😉
 
